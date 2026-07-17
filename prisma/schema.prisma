@@ -1,0 +1,79 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model Plant {
+  id              String    @id @default(cuid())
+  name            String
+  scientific_name String?
+  description     String?
+  diseases        Disease[]
+}
+
+model Disease {
+  id                 String             @id @default(cuid())
+  plant_id           String
+  code               String             @unique
+  name               String
+  latin_name         String?
+  description        String?
+  cause              String?
+  impact             String?
+  reference_source   String?
+  reference_document String?
+  
+  plant              Plant              @relation(fields: [plant_id], references: [id])
+  disease_symptoms   DiseaseSymptom[]
+  treatments         Treatment[]
+  diagnosis_history  DiagnosisHistory[]
+}
+
+model Symptom {
+  id               String           @id @default(cuid())
+  code             String           @unique
+  name             String
+  description      String?
+  plant_part       String           // daun, batang, akar, malai, gabah
+  phase            String           // vegetatif, generatif, semua
+  
+  disease_symptoms DiseaseSymptom[]
+}
+
+// Tabel Knowledge Base / Rule Based
+model DiseaseSymptom {
+  id         String  @id @default(cuid())
+  disease_id String
+  symptom_id String
+  cf_expert  Float   // Nilai keyakinan pakar (0.0 - 1.0)
+  
+  disease    Disease @relation(fields: [disease_id], references: [id], onDelete: Cascade)
+  symptom    Symptom @relation(fields: [symptom_id], references: [id], onDelete: Cascade)
+
+  @@unique([disease_id, symptom_id])
+}
+
+model Treatment {
+  id          String  @id @default(cuid())
+  disease_id  String
+  title       String
+  description String
+  type        String  // preventif, pengendalian, varietas_tahan, kultur_teknis, pestisida
+  
+  disease     Disease @relation(fields: [disease_id], references: [id], onDelete: Cascade)
+}
+
+model DiagnosisHistory {
+  id         String   @id @default(cuid())
+  user_id    String?  // Nullable jika guest bisa akses
+  disease_id String
+  cf_result  Float
+  created_at DateTime @default(now())
+  
+  disease    Disease  @relation(fields: [disease_id], references: [id])
+}

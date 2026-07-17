@@ -1,0 +1,682 @@
+{
+  "diseases": [
+    {
+      "code": "DIS001",
+      "name": "Hawar Daun Bakteri",
+      "latin_name": "Xanthomonas oryzae pv. oryzae",
+      "description": "Hawar Daun Bakteri (HDB) adalah penyakit bakterial yang menyerang tanaman padi pada semua fase pertumbuhan. Penyakit ini ditandai dengan lesi atau bercak berwarna kuning keabu-abuan pada tepi daun yang kemudian meluas ke seluruh helai daun. Penyakit ini sangat merusak terutama pada varietas rentan.",
+      "cause": "Disebabkan oleh bakteri Xanthomonas oryzae pv. oryzae. Bakteri menyebar melalui air irigasi, angin, dan kontak langsung antar tanaman. Infeksi masuk melalui stomata dan luka pada daun.",
+      "impact": "Dapat menyebabkan kehilangan hasil hingga 20-30% pada varietas rentan, dan hingga 50-70% pada serangan berat. Malai yang terinfeksi pada fase generatif menghasilkan gabah hampa.",
+      "reference_source": "BBPOPT Jatisari, Kementan RI",
+      "reference_document": "Pedoman Teknis Pengendalian OPT Padi, 2021"
+    },
+    {
+      "code": "DIS002",
+      "name": "Blas",
+      "latin_name": "Pyricularia oryzae",
+      "description": "Blas adalah penyakit jamur yang paling merusak pada tanaman padi di seluruh dunia. Penyakit ini dapat menyerang daun (blas daun), leher malai (blas leher), dan buku batang. Bercak berbentuk belah ketupat dengan ujung runcing berwarna keabu-abuan dengan tepi cokelat adalah ciri khasnya.",
+      "cause": "Disebabkan oleh jamur Pyricularia oryzae. Jamur berkembang pesat pada kondisi udara lembab, suhu 25-28°C, angin kencang, dan pemupukan nitrogen berlebihan.",
+      "impact": "Blas leher adalah yang paling berbahaya karena memotong aliran nutrisi ke malai, menyebabkan malai mati (beluk). Kehilangan hasil bisa mencapai 100% pada serangan berat.",
+      "reference_source": "IRRI (International Rice Research Institute)",
+      "reference_document": "Rice Doctor - Blast Disease Fact Sheet"
+    },
+    {
+      "code": "DIS003",
+      "name": "Busuk Batang",
+      "latin_name": "Helminthosporium sigmoideum / Sarocladium oryzae",
+      "description": "Busuk Batang (sheath blight) adalah penyakit jamur yang menyerang pelepah batang padi. Ditandai dengan lesi oval atau tidak beraturan berwarna abu-abu kehijauan dengan tepi cokelat pada pelepah daun. Penyakit ini sangat merusak pada kondisi pertanaman padat.",
+      "cause": "Disebabkan oleh jamur Rhizoctonia solani. Sklerotia jamur bertahan di tanah dan sisa jerami. Menyebar melalui air irigasi dan kontak langsung. Berkembang pesat pada suhu 28-32°C dengan kelembaban tinggi.",
+      "impact": "Mengurangi luas daun fotosintetik, memperlemah batang, dan dapat menyebabkan rebah. Kehilangan hasil 5-50% tergantung intensitas serangan.",
+      "reference_source": "Balai Penelitian Tanaman Padi",
+      "reference_document": "Deskripsi dan Pengendalian OPT Utama Padi"
+    },
+    {
+      "code": "DIS004",
+      "name": "Tungro",
+      "latin_name": "Rice Tungro Virus (RTSV & RTBV)",
+      "description": "Tungro adalah penyakit virus padi yang paling penting di Asia Tenggara. Tanaman yang terinfeksi menunjukkan gejala menguning dari ujung daun, tanaman kerdil, dan jumlah anakan berkurang. Infeksi lebih awal menyebabkan kerusakan lebih berat.",
+      "cause": "Disebabkan oleh dua virus: Rice Tungro Bacilliform Virus (RTBV) dan Rice Tungro Spherical Virus (RTSV). Ditularkan oleh wereng hijau (Nephotettix virescens) secara semipersisten.",
+      "impact": "Dapat menyebabkan kehilangan hasil 20-90%. Infeksi pada fase vegetatif awal dapat menyebabkan kegagalan panen total.",
+      "reference_source": "IRRI & Kementan RI",
+      "reference_document": "Panduan Pengelolaan Tungro Padi"
+    },
+    {
+      "code": "DIS005",
+      "name": "Layu Bibit (Damping Off)",
+      "latin_name": "Pythium sp. / Fusarium sp.",
+      "description": "Layu bibit atau damping-off adalah penyakit yang menyerang bibit padi di persemaian. Ditandai dengan pembusukan pangkal batang bibit yang menyebabkan bibit roboh dan mati. Penyakit ini sering menyebar secara meluas di persemaian.",
+      "cause": "Disebabkan oleh beberapa jenis jamur tanah antara lain Pythium sp., Fusarium sp., dan Helminthosporium sp. Kondisi tanah lembab berlebihan, suhu rendah, dan benih tidak sehat mendorong perkembangan penyakit.",
+      "impact": "Mengurangi populasi bibit siap tanam secara signifikan. Pada serangan berat, seluruh persemaian dapat mati sehingga perlu penyemaian ulang.",
+      "reference_source": "Balai Besar Penelitian Tanaman Padi",
+      "reference_document": "Pengelolaan Persemaian Padi Sehat"
+    },
+    {
+      "code": "DIS006",
+      "name": "Kerdil Rumput",
+      "latin_name": "Rice Grassy Stunt Virus (RGSV)",
+      "description": "Kerdil Rumput adalah penyakit virus yang menyebabkan tanaman padi tumbuh sangat kerdil dengan banyak anakan kecil menyerupai rumput. Daun berwarna hijau pucat hingga kuning, sempit dan tegak. Tidak membentuk malai atau malai sangat kecil dan hampa.",
+      "cause": "Disebabkan oleh Rice Grassy Stunt Virus (RGSV) yang ditularkan oleh wereng cokelat (Nilaparvata lugens) secara persisten. Sekali terinfeksi, wereng tetap viruliferous seumur hidup.",
+      "impact": "Tanaman yang terinfeksi tidak menghasilkan gabah sama sekali. Kehilangan hasil mencapai 100% pada tanaman yang terinfeksi.",
+      "reference_source": "BBPOPT Jatisari",
+      "reference_document": "Pedoman Identifikasi OPT Padi"
+    },
+    {
+      "code": "DIS007",
+      "name": "Hawar Daun Cokelat",
+      "latin_name": "Helminthosporium oryzae",
+      "description": "Hawar Daun Cokelat (Brown Leaf Blight) ditandai dengan bercak oval atau bulat berwarna cokelat pada daun. Bercak awalnya kecil berwarna cokelat tua kemudian berkembang dengan bagian tengah berwarna abu-abu dan tepi cokelat tua. Pada serangan berat menyebabkan daun mengering.",
+      "cause": "Disebabkan oleh jamur Cochliobolus miyabeanus (stadium konidial: Bipolaris oryzae). Berkembang pada kondisi suhu 25-30°C, kelembaban tinggi, dan tanaman yang kekurangan kalium.",
+      "impact": "Mengurangi kapasitas fotosintesis daun, menyebabkan pengisian gabah tidak sempurna. Kehilangan hasil 10-30% pada serangan sedang hingga berat.",
+      "reference_source": "Balai Penelitian Tanaman Padi",
+      "reference_document": "Pengendalian Penyakit Bercak Daun Padi"
+    },
+    {
+      "code": "DIS008",
+      "name": "Kerdil Hampa (Ragged Stunt)",
+      "latin_name": "Rice Ragged Stunt Virus (RRSV)",
+      "description": "Kerdil Hampa adalah penyakit virus yang ditandai dengan tepi daun yang bergerigi atau robek tidak beraturan, tanaman kerdil, daun berwarna hijau gelap, dan pembentukan galur pada permukaan daun. Malai yang terbentuk menghasilkan gabah hampa.",
+      "cause": "Disebabkan oleh Rice Ragged Stunt Virus (RRSV) yang ditularkan oleh wereng cokelat (Nilaparvata lugens) secara persisten. Inokulum berada dalam populasi wereng yang bermigrasi.",
+      "impact": "Tanaman yang terinfeksi mengalami penurunan hasil drastis. Gabah yang dihasilkan sebagian besar hampa. Kehilangan hasil bisa mencapai 90-100% tergantung waktu infeksi.",
+      "reference_source": "IRRI & BBPOPT",
+      "reference_document": "Panduan Pengelolaan Virus Padi"
+    },
+    {
+      "code": "DIS009",
+      "name": "Bercak Daun Sempit (Narrow Brown Leaf Spot)",
+      "latin_name": "Cercospora janseana",
+      "description": "Bercak Daun Sempit ditandai dengan lesi kecil memanjang berwarna cokelat pada helaian daun. Lesi sempit (1-2 mm) dan panjang (3-10 mm). Pada serangan berat, bercak menyatu dan menyebabkan daun mengering dari ujung.",
+      "cause": "Disebabkan oleh jamur Cercospora janseana. Berkembang pada kondisi lembab dan banyak ditemukan pada varietas rentan. Sering muncul pada fase vegetatif akhir hingga generatif.",
+      "impact": "Mengurangi kapasitas fotosintesis. Pada serangan berat menyebabkan daun bendera mengering sebelum pengisian gabah selesai, mengakibatkan gabah hampa atau berisi tidak penuh.",
+      "reference_source": "Balai Besar Penelitian Tanaman Padi",
+      "reference_document": "Deskripsi Penyakit Padi di Indonesia"
+    },
+    {
+      "code": "DIS010",
+      "name": "Busuk Pelepah (Sheath Rot)",
+      "latin_name": "Sarocladium oryzae",
+      "description": "Busuk Pelepah adalah penyakit jamur yang menyerang pelepah daun padi, terutama pelepah daun bendera. Ditandai dengan bercak cokelat tidak beraturan pada pelepah yang kemudian membusuk. Malai yang terinfeksi tidak dapat keluar sempurna (gagal berbunga).",
+      "cause": "Disebabkan oleh jamur Sarocladium oryzae. Berkembang pada kondisi suhu 20-28°C dan kelembaban tinggi. Luka akibat serangga atau angin memudahkan infeksi.",
+      "impact": "Malai yang terinfeksi tidak keluar sempurna atau keluar sebagian. Gabah pada malai yang terinfeksi banyak yang hampa atau berwarna hitam. Kehilangan hasil 5-40%.",
+      "reference_source": "IRRI Rice Knowledge Bank",
+      "reference_document": "Sheath Rot Disease Management"
+    },
+    {
+      "code": "DIS011",
+      "name": "Penyakit Beluk (False Smut)",
+      "latin_name": "Ustilaginoidea virens",
+      "description": "Beluk atau False Smut menyebabkan beberapa gabah pada malai berubah menjadi massa spora berwarna hijau kekuningan hingga hitam kehijauan. Gabah yang terinfeksi membesar dan ditutupi massa spora bertekstur halus kemudian kasar.",
+      "cause": "Disebabkan oleh jamur Ustilaginoidea virens. Infeksi terjadi saat malai sedang berbunga. Spora menyebar melalui udara. Berkembang pada kondisi lembab dan curah hujan tinggi saat pembungaan.",
+      "impact": "Mengurangi jumlah gabah berisi pada malai. Pada serangan berat, satu malai bisa memiliki banyak gabah terinfeksi. Kehilangan hasil 5-30%. Spora mengandung toksin yang berbahaya jika termakan.",
+      "reference_source": "Balai Penelitian Tanaman Padi",
+      "reference_document": "Pengendalian Jamur Tular Udara pada Padi"
+    },
+    {
+      "code": "DIS012",
+      "name": "Bercak Cokelat (Brown Spot)",
+      "latin_name": "Bipolaris oryzae",
+      "description": "Bercak Cokelat adalah penyakit jamur yang sangat umum pada padi. Ditandai dengan bercak oval atau bulat berwarna cokelat dengan lingkaran kuning di sekelilingnya pada daun dan gabah. Penyakit ini sering dianggap sepele namun bisa menyebabkan kerugian besar.",
+      "cause": "Disebabkan oleh Bipolaris oryzae (Cochliobolus miyabeanus). Berkembang pesat pada tanah yang kekurangan silika dan unsur hara, kondisi kekeringan, dan varietas rentan.",
+      "impact": "Menginfeksi daun dan gabah. Gabah yang terinfeksi berwarna cokelat dan bisa menyebabkan beras pecah (chalky) saat penggilingan. Kehilangan hasil 5-45%.",
+      "reference_source": "IRRI Rice Doctor",
+      "reference_document": "Brown Spot Management Guide"
+    }
+  ],
+  "symptoms": [
+    {
+      "code": "SYM001",
+      "name": "Bercak memanjang kuning keabu-abuan pada tepi daun",
+      "description": "Lesi dimulai dari tepi daun, berwarna kuning kehijauan kemudian menjadi abu-abu keputihan. Batas antara bagian sehat dan sakit tampak bergelombang.",
+      "plant_part": "daun",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM002",
+      "name": "Daun menggulung ke atas",
+      "description": "Helai daun menggulung memanjang dari tepi ke arah tulang daun, biasanya disertai perubahan warna daun menjadi kuning.",
+      "plant_part": "daun",
+      "phase": "semua"
+    },
+    {
+      "code": "SYM003",
+      "name": "Daun menguning dari ujung ke pangkal",
+      "description": "Perubahan warna daun dari hijau menjadi kuning dimulai dari ujung daun dan secara bertahap meluas ke pangkal daun.",
+      "plant_part": "daun",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM004",
+      "name": "Bercak bulat oval cokelat pada daun",
+      "description": "Bercak berbentuk bulat atau oval berwarna cokelat tua atau cokelat kemerahan, seringkali dikelilingi halo kuning. Ukuran bervariasi 1-10 mm.",
+      "plant_part": "daun",
+      "phase": "semua"
+    },
+    {
+      "code": "SYM005",
+      "name": "Batang busuk dan mudah patah",
+      "description": "Bagian dalam batang membusuk berwarna cokelat kehitaman. Batang menjadi lemah dan mudah patah saat ditekan atau tertiup angin.",
+      "plant_part": "batang",
+      "phase": "generatif"
+    },
+    {
+      "code": "SYM006",
+      "name": "Malai tidak berkembang atau mati (beluk)",
+      "description": "Malai tidak dapat keluar sempurna dari pelepah atau keluar tetapi langsung mati. Malai berwarna cokelat atau hitam dan tidak berisi gabah.",
+      "plant_part": "malai",
+      "phase": "generatif"
+    },
+    {
+      "code": "SYM007",
+      "name": "Bibit layu dan rebah di persemaian",
+      "description": "Bibit muda yang berumur 1-3 minggu tiba-tiba layu, menguning, dan reboh. Pangkal batang bibit membusuk berwarna cokelat hingga hitam.",
+      "plant_part": "batang",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM008",
+      "name": "Tanaman sangat kerdil dengan banyak anakan kecil",
+      "description": "Tanaman tumbuh jauh di bawah normal, anakan banyak namun kecil-kecil menyerupai rumput. Tinggi tanaman kurang dari setengah tanaman normal.",
+      "plant_part": "daun",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM009",
+      "name": "Gabah banyak yang hampa atau kopong",
+      "description": "Saat panen, banyak gabah yang ringan atau kosong saat dijepret. Persentase gabah hampa lebih dari 30% dari total gabah per malai.",
+      "plant_part": "gabah",
+      "phase": "generatif"
+    },
+    {
+      "code": "SYM010",
+      "name": "Hawar pada bintil jari / kresek",
+      "description": "Gejala hawar pada bibit yang baru dipindah tanam (kresek). Daun mengering dan mati mulai dari ujung, tanaman kelihatan seperti terbakar.",
+      "plant_part": "daun",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM011",
+      "name": "Bercak belah ketupat abu-abu dengan tepi cokelat pada daun",
+      "description": "Bercak khas berbentuk belah ketupat atau elips berwarna putih keabu-abuan di tengah dengan tepi berwarna cokelat kemerahan. Ukuran 1-1.5 cm panjang dan 0.3-0.5 cm lebar.",
+      "plant_part": "daun",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM012",
+      "name": "Leher malai berwarna cokelat dan busuk",
+      "description": "Pangkal malai (leher) berwarna cokelat hingga hitam, terlihat seperti busuk atau tercekik. Malai di atasnya tidak berisi atau sangat sedikit berisi gabah.",
+      "plant_part": "malai",
+      "phase": "generatif"
+    },
+    {
+      "code": "SYM013",
+      "name": "Lesi oval abu-abu kehijauan pada pelepah batang",
+      "description": "Bercak oval atau tidak beraturan berwarna abu-abu kehijauan dengan tepi cokelat pada pelepah daun. Bercak dapat meluas hingga menutupi seluruh pelepah.",
+      "plant_part": "batang",
+      "phase": "semua"
+    },
+    {
+      "code": "SYM014",
+      "name": "Daun berwarna hijau kekuningan pucat dan sempit",
+      "description": "Daun berwarna lebih pucat dari normal (hijau kekuningan atau kuning muda), lebih sempit dan tegak dibanding daun sehat. Gejala terlihat pada seluruh bagian tanaman.",
+      "plant_part": "daun",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM015",
+      "name": "Jumlah anakan sangat sedikit",
+      "description": "Tanaman hanya menghasilkan sedikit anakan dibanding normal. Anakan yang ada tumbuh lemah dan tidak produktif.",
+      "plant_part": "daun",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM016",
+      "name": "Tepi daun bergerigi atau robek tidak beraturan",
+      "description": "Tepi helaian daun tampak robek, bergerigi, atau berombak tidak beraturan. Berbeda dari kerusakan mekanis karena terdapat di banyak daun sekaligus.",
+      "plant_part": "daun",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM017",
+      "name": "Galur atau tulang daun tampak menonjol",
+      "description": "Tulang daun (vena) tampak menonjol lebih dari normal, membentuk garis-garis yang jelas di permukaan daun. Daun tampak kasar saat diraba.",
+      "plant_part": "daun",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM018",
+      "name": "Bercak cokelat sempit memanjang pada daun",
+      "description": "Lesi sempit (1-2 mm lebar) dan memanjang (3-10 mm) berwarna cokelat pada helaian daun. Pada serangan berat lesi menyatu membentuk bercak lebih besar.",
+      "plant_part": "daun",
+      "phase": "generatif"
+    },
+    {
+      "code": "SYM019",
+      "name": "Pelepah daun bendera busuk dan berbau",
+      "description": "Pelepah daun paling atas (daun bendera) membusuk berwarna cokelat gelap disertai bau tidak sedap. Kondisi ini menghalangi keluarnya malai.",
+      "plant_part": "batang",
+      "phase": "generatif"
+    },
+    {
+      "code": "SYM020",
+      "name": "Beberapa gabah berubah menjadi massa spora hijau kekuningan",
+      "description": "Satu atau beberapa gabah pada malai berubah menjadi bola berisi spora berwarna hijau kekuningan hingga hijau tua atau hitam. Ukurannya lebih besar dari gabah normal.",
+      "plant_part": "gabah",
+      "phase": "generatif"
+    },
+    {
+      "code": "SYM021",
+      "name": "Gabah berwarna cokelat atau hitam (diskolorasi)",
+      "description": "Permukaan gabah berwarna cokelat, abu-abu, atau hitam, berbeda dari warna kuning jerami normal. Diskolorasi ini menurunkan kualitas beras.",
+      "plant_part": "gabah",
+      "phase": "generatif"
+    },
+    {
+      "code": "SYM022",
+      "name": "Akar busuk berwarna hitam dan berbau busuk",
+      "description": "Akar padi berwarna hitam atau cokelat gelap, lunak, dan mengeluarkan bau busuk. Berbeda dari akar sehat yang berwarna putih atau krem.",
+      "plant_part": "akar",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM023",
+      "name": "Tanaman mudah dicabut karena akar lemah",
+      "description": "Tanaman terlihat sehat dari atas namun mudah sekali dicabut dari tanah karena sistem perakarannya rusak atau tidak berkembang baik.",
+      "plant_part": "akar",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM024",
+      "name": "Daun hijau gelap dan kaku tidak normal",
+      "description": "Daun berwarna hijau lebih tua dari normal, teksturnya terasa kaku dan tebal. Biasanya disertai tanaman yang tumbuh lebih tegak dari biasanya.",
+      "plant_part": "daun",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM025",
+      "name": "Bercak cokelat pada gabah (beras pecah-pecah)",
+      "description": "Permukaan gabah memiliki bercak cokelat kecil-kecil. Saat digiling, beras cenderung pecah di bagian yang berbercak menghasilkan beras berkualitas rendah.",
+      "plant_part": "gabah",
+      "phase": "generatif"
+    },
+    {
+      "code": "SYM026",
+      "name": "Pangkal batang bibit membusuk (warna hitam)",
+      "description": "Pangkal batang bibit di dekat permukaan tanah membusuk berwarna cokelat kehitaman. Jaringan menjadi lunak dan lembek, bibit akhirnya roboh.",
+      "plant_part": "batang",
+      "phase": "vegetatif"
+    },
+    {
+      "code": "SYM027",
+      "name": "Malai keluar tidak sempurna dari pelepah",
+      "description": "Malai hanya keluar sebagian dari pelepah daun bendera. Bagian malai yang masih terbungkus pelepah tidak berkembang dan menghasilkan gabah hampa.",
+      "plant_part": "malai",
+      "phase": "generatif"
+    },
+    {
+      "code": "SYM028",
+      "name": "Cairan seperti air susu keluar dari batang yang dipotong",
+      "description": "Saat batang dipotong dan ditekan, keluar cairan keruh seperti susu atau lendir. Ini menandakan infeksi bakteri di dalam jaringan vaskular batang.",
+      "plant_part": "batang",
+      "phase": "semua"
+    },
+    {
+      "code": "SYM029",
+      "name": "Bercak kuning air pada daun yang kemudian mengering",
+      "description": "Muncul bercak basah berwarna hijau pucat atau kuning kehijauan yang tampak seperti tersiram air, kemudian mengering dan berwarna cokelat muda.",
+      "plant_part": "daun",
+      "phase": "generatif"
+    },
+    {
+      "code": "SYM030",
+      "name": "Tanaman tampak sehat namun malai hampa semua",
+      "description": "Tanaman secara visual tampak hijau dan sehat namun seluruh atau sebagian besar gabah pada malai kosong/hampa. Gejala ini muncul saat panen.",
+      "plant_part": "malai",
+      "phase": "generatif"
+    }
+  ],
+  "disease_symptoms": [
+    { "disease_code": "DIS001", "symptom_code": "SYM001", "cf_expert": 0.95 },
+    { "disease_code": "DIS001", "symptom_code": "SYM010", "cf_expert": 0.90 },
+    { "disease_code": "DIS001", "symptom_code": "SYM028", "cf_expert": 0.85 },
+    { "disease_code": "DIS001", "symptom_code": "SYM003", "cf_expert": 0.70 },
+    { "disease_code": "DIS001", "symptom_code": "SYM009", "cf_expert": 0.75 },
+    { "disease_code": "DIS001", "symptom_code": "SYM006", "cf_expert": 0.70 },
+
+    { "disease_code": "DIS002", "symptom_code": "SYM011", "cf_expert": 0.95 },
+    { "disease_code": "DIS002", "symptom_code": "SYM012", "cf_expert": 0.95 },
+    { "disease_code": "DIS002", "symptom_code": "SYM004", "cf_expert": 0.80 },
+    { "disease_code": "DIS002", "symptom_code": "SYM006", "cf_expert": 0.85 },
+    { "disease_code": "DIS002", "symptom_code": "SYM009", "cf_expert": 0.80 },
+    { "disease_code": "DIS002", "symptom_code": "SYM005", "cf_expert": 0.75 },
+
+    { "disease_code": "DIS003", "symptom_code": "SYM013", "cf_expert": 0.95 },
+    { "disease_code": "DIS003", "symptom_code": "SYM005", "cf_expert": 0.88 },
+    { "disease_code": "DIS003", "symptom_code": "SYM009", "cf_expert": 0.75 },
+    { "disease_code": "DIS003", "symptom_code": "SYM006", "cf_expert": 0.70 },
+
+    { "disease_code": "DIS004", "symptom_code": "SYM002", "cf_expert": 0.88 },
+    { "disease_code": "DIS004", "symptom_code": "SYM003", "cf_expert": 0.90 },
+    { "disease_code": "DIS004", "symptom_code": "SYM008", "cf_expert": 0.85 },
+    { "disease_code": "DIS004", "symptom_code": "SYM015", "cf_expert": 0.80 },
+    { "disease_code": "DIS004", "symptom_code": "SYM014", "cf_expert": 0.78 },
+    { "disease_code": "DIS004", "symptom_code": "SYM009", "cf_expert": 0.75 },
+
+    { "disease_code": "DIS005", "symptom_code": "SYM007", "cf_expert": 0.95 },
+    { "disease_code": "DIS005", "symptom_code": "SYM026", "cf_expert": 0.92 },
+    { "disease_code": "DIS005", "symptom_code": "SYM022", "cf_expert": 0.75 },
+    { "disease_code": "DIS005", "symptom_code": "SYM023", "cf_expert": 0.70 },
+
+    { "disease_code": "DIS006", "symptom_code": "SYM002", "cf_expert": 0.85 },
+    { "disease_code": "DIS006", "symptom_code": "SYM008", "cf_expert": 0.95 },
+    { "disease_code": "DIS006", "symptom_code": "SYM014", "cf_expert": 0.88 },
+    { "disease_code": "DIS006", "symptom_code": "SYM015", "cf_expert": 0.80 },
+    { "disease_code": "DIS006", "symptom_code": "SYM030", "cf_expert": 0.90 },
+
+    { "disease_code": "DIS007", "symptom_code": "SYM004", "cf_expert": 0.88 },
+    { "disease_code": "DIS007", "symptom_code": "SYM029", "cf_expert": 0.85 },
+    { "disease_code": "DIS007", "symptom_code": "SYM009", "cf_expert": 0.72 },
+    { "disease_code": "DIS007", "symptom_code": "SYM021", "cf_expert": 0.70 },
+
+    { "disease_code": "DIS008", "symptom_code": "SYM016", "cf_expert": 0.95 },
+    { "disease_code": "DIS008", "symptom_code": "SYM017", "cf_expert": 0.88 },
+    { "disease_code": "DIS008", "symptom_code": "SYM008", "cf_expert": 0.85 },
+    { "disease_code": "DIS008", "symptom_code": "SYM024", "cf_expert": 0.80 },
+    { "disease_code": "DIS008", "symptom_code": "SYM009", "cf_expert": 0.90 },
+    { "disease_code": "DIS008", "symptom_code": "SYM030", "cf_expert": 0.85 },
+
+    { "disease_code": "DIS009", "symptom_code": "SYM018", "cf_expert": 0.92 },
+    { "disease_code": "DIS009", "symptom_code": "SYM004", "cf_expert": 0.75 },
+    { "disease_code": "DIS009", "symptom_code": "SYM009", "cf_expert": 0.70 },
+
+    { "disease_code": "DIS010", "symptom_code": "SYM019", "cf_expert": 0.95 },
+    { "disease_code": "DIS010", "symptom_code": "SYM027", "cf_expert": 0.92 },
+    { "disease_code": "DIS010", "symptom_code": "SYM013", "cf_expert": 0.80 },
+    { "disease_code": "DIS010", "symptom_code": "SYM009", "cf_expert": 0.85 },
+    { "disease_code": "DIS010", "symptom_code": "SYM006", "cf_expert": 0.75 },
+
+    { "disease_code": "DIS011", "symptom_code": "SYM020", "cf_expert": 0.98 },
+    { "disease_code": "DIS011", "symptom_code": "SYM009", "cf_expert": 0.80 },
+    { "disease_code": "DIS011", "symptom_code": "SYM021", "cf_expert": 0.70 },
+
+    { "disease_code": "DIS012", "symptom_code": "SYM004", "cf_expert": 0.85 },
+    { "disease_code": "DIS012", "symptom_code": "SYM025", "cf_expert": 0.90 },
+    { "disease_code": "DIS012", "symptom_code": "SYM021", "cf_expert": 0.80 },
+    { "disease_code": "DIS012", "symptom_code": "SYM009", "cf_expert": 0.70 }
+  ],
+  "treatments": [
+    {
+      "disease_code": "DIS001",
+      "title": "Tanam varietas tahan HDB",
+      "description": "Gunakan varietas tahan seperti Conde, Angke, Ciherang, IR64, Inpari 13, atau Inpari 30. Varietas tahan adalah cara paling efektif dan ekonomis mengendalikan HDB.",
+      "type": "varietas_tahan"
+    },
+    {
+      "disease_code": "DIS001",
+      "title": "Pengaturan irigasi berselang (AWD)",
+      "description": "Terapkan irigasi berselang (basah-kering) untuk mengurangi kelembaban yang mendukung perkembangan bakteri. Hindari penggenangan terus-menerus.",
+      "type": "kultur_teknis"
+    },
+    {
+      "disease_code": "DIS001",
+      "title": "Pengendalian dengan bakterisida",
+      "description": "Semprot dengan bakterisida berbahan aktif tembaga (copper hydroxide) seperti Kocide 2000 atau Nordox 56WP dosis 2-3 g/L air. Aplikasikan 2-3 kali dengan interval 7-10 hari.",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS001",
+      "title": "Sanitasi lahan dan sisa tanaman",
+      "description": "Bakar atau benamkan sisa jerami setelah panen untuk mengurangi sumber inokulum. Bersihkan gulma di sekitar lahan yang bisa menjadi inang bakteri.",
+      "type": "preventif"
+    },
+    {
+      "disease_code": "DIS001",
+      "title": "Pemupukan berimbang (kurangi N berlebih)",
+      "description": "Hindari pemupukan nitrogen berlebihan yang membuat jaringan tanaman lunak dan mudah terinfeksi bakteri. Gunakan urea sesuai rekomendasi (150-200 kg/ha) dan imbangi dengan pupuk K (KCl).",
+      "type": "kultur_teknis"
+    },
+
+    {
+      "disease_code": "DIS002",
+      "title": "Tanam varietas tahan blas",
+      "description": "Gunakan varietas tahan blas seperti Cimelati, Batutegi, Conde, Inpari 30, Inpago 8, atau Inpara 3. Rotasi varietas secara berkala untuk menghindari breakdown ketahanan.",
+      "type": "varietas_tahan"
+    },
+    {
+      "disease_code": "DIS002",
+      "title": "Fungisida untuk blas daun dan leher",
+      "description": "Semprot fungisida berbahan aktif isoprothiolane (Fuji-One 400 EC dosis 1-1.5 ml/L) atau trisiklazol (Beam 75WP dosis 0.5-1 g/L). Aplikasikan saat gejala awal terdeteksi, ulangi 7-10 hari kemudian. Untuk blas leher semprot saat 50% malai keluar.",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS002",
+      "title": "Batasi pemupukan nitrogen",
+      "description": "Kurangi dosis nitrogen total dan bagi menjadi lebih banyak takaran kecil. Pemupukan N berlebihan meningkatkan kerentanan terhadap blas. Substitusi sebagian N dengan silika (pupuk Si) untuk memperkuat dinding sel.",
+      "type": "kultur_teknis"
+    },
+    {
+      "disease_code": "DIS002",
+      "title": "Penggunaan benih sehat dan perlakuan benih",
+      "description": "Pilih benih dari sumber terpercaya dan bebas blas. Rendam benih dalam larutan fungisida karbendazim 2 g/L selama 24 jam sebelum disemai untuk membunuh konidia jamur.",
+      "type": "preventif"
+    },
+
+    {
+      "disease_code": "DIS003",
+      "title": "Tanam varietas tahan busuk batang",
+      "description": "Gunakan varietas toleran seperti Inpari 1, Inpari 6, Ciherang, atau IR42. Varietas dengan batang kokoh dan tidak terlalu berair lebih tahan.",
+      "type": "varietas_tahan"
+    },
+    {
+      "disease_code": "DIS003",
+      "title": "Fungisida berbahan aktif azoxystrobin",
+      "description": "Semprot dengan fungisida berbahan aktif azoxystrobin (Amistar 200 SC dosis 0.5 ml/L) atau validamycin (Validacin 3L dosis 2 ml/L) saat gejala awal pada pelepah. Ulangi 10-14 hari kemudian.",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS003",
+      "title": "Pengaturan jarak tanam dan populasi",
+      "description": "Gunakan jarak tanam lebih lebar (25x25 cm atau jajar legowo) untuk meningkatkan sirkulasi udara dan mengurangi kelembaban mikro yang mendukung perkembangan jamur.",
+      "type": "kultur_teknis"
+    },
+    {
+      "disease_code": "DIS003",
+      "title": "Sanitasi jerami dan sklerotia",
+      "description": "Benamkan atau bakar jerami sisa panen karena sklerotia jamur dapat bertahan di jerami dan tanah. Olah tanah sedalam mungkin untuk membenamkan sklerotia.",
+      "type": "preventif"
+    },
+
+    {
+      "disease_code": "DIS004",
+      "title": "Gunakan varietas tahan tungro",
+      "description": "Tanam varietas tahan tungro seperti Tukad Balian, Tukad Petanu, Tukad Unda, Kalimas, Bondoyudo, Inpari 7, Inpari 8, atau Inpari 9.",
+      "type": "varietas_tahan"
+    },
+    {
+      "disease_code": "DIS004",
+      "title": "Pengendalian wereng hijau sebagai vektor",
+      "description": "Semprot insektisida berbahan aktif imidakloprid (Confidor 200 SL dosis 0.5 ml/L) atau BPMC (Hopcin 50 EC dosis 2 ml/L) untuk mengendalikan wereng hijau sebagai vektor tungro. Aplikasikan saat populasi wereng mencapai ambang batas.",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS004",
+      "title": "Tanam serempak dalam satu hamparan",
+      "description": "Tanam padi secara serempak di satu kawasan minimal 50-100 ha untuk memutus siklus hidup wereng hijau dan menekan penyebaran virus tungro.",
+      "type": "kultur_teknis"
+    },
+    {
+      "disease_code": "DIS004",
+      "title": "Cabut dan musnahkan tanaman terinfeksi",
+      "description": "Tanaman yang menunjukkan gejala tungro harus segera dicabut dan dimusnahkan untuk mencegah penyebaran. Wereng yang makan tanaman sakit dapat menularkan virus ke tanaman sehat.",
+      "type": "pengendalian"
+    },
+
+    {
+      "disease_code": "DIS005",
+      "title": "Perlakuan benih dengan fungisida",
+      "description": "Rendam benih dalam larutan fungisida berbahan aktif metalaksil (Ridomil Gold) 2 g/L selama 24 jam atau Thiram 1-2 g/kg benih sebelum disemai. Ini sangat efektif mencegah damping-off.",
+      "type": "preventif"
+    },
+    {
+      "disease_code": "DIS005",
+      "title": "Sanitasi media semai",
+      "description": "Gunakan media semai yang steril atau diperlakukan dengan solarisasi (ditutup plastik bening selama 2-4 minggu sebelum digunakan). Hindari media dari lahan yang pernah terserang.",
+      "type": "kultur_teknis"
+    },
+    {
+      "disease_code": "DIS005",
+      "title": "Fungisida untuk penyelamatan",
+      "description": "Siram persemaian dengan larutan fungisida berbahan aktif propamokarb (Previcur 722 SL dosis 2-3 ml/L) atau karbendazim 50 WP (1 g/L) saat gejala mulai tampak.",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS005",
+      "title": "Pengaturan drainase persemaian",
+      "description": "Pastikan drainase persemaian baik agar tidak ada genangan air berlebih. Media semai yang terlalu basah mempercepat perkembangan jamur penyebab damping-off.",
+      "type": "kultur_teknis"
+    },
+
+    {
+      "disease_code": "DIS006",
+      "title": "Pengendalian wereng cokelat secara intensif",
+      "description": "Semprot insektisida berbahan aktif buprofezin (Applaud 25 WP dosis 1-1.5 g/L) atau imidakloprid untuk mengendalikan wereng cokelat sebagai vektor RGSV.",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS006",
+      "title": "Gunakan varietas tahan wereng cokelat",
+      "description": "Tanam varietas yang memiliki ketahanan terhadap wereng cokelat seperti IR36, IR64, Ciherang, Inpari 13, atau Inpari 21. Ini secara tidak langsung mencegah kerdil rumput.",
+      "type": "varietas_tahan"
+    },
+    {
+      "disease_code": "DIS006",
+      "title": "Cabut dan bakar tanaman terinfeksi",
+      "description": "Segera cabut tanaman yang menunjukkan gejala kerdil rumput dan musnahkan dengan membakarnya di luar lahan. Jangan biarkan tanaman sakit tetap di lahan karena menjadi sumber inokulum.",
+      "type": "pengendalian"
+    },
+    {
+      "disease_code": "DIS006",
+      "title": "Tanam serempak dan pergiliran tanaman",
+      "description": "Tanam serempak dalam satu hamparan luas. Lakukan pergiliran tanaman dengan bukan tanaman padi (palawija) untuk memutus siklus hidup wereng dan virus.",
+      "type": "kultur_teknis"
+    },
+
+    {
+      "disease_code": "DIS007",
+      "title": "Fungisida berbahan aktif mankozeb atau tembaga",
+      "description": "Semprot fungisida berbahan aktif mankozeb (Dithane M-45 dosis 2-3 g/L) atau tembaga hidroksida (Champion WP dosis 2-3 g/L). Aplikasikan 2-3 kali mulai fase vegetatif akhir dengan interval 7-10 hari.",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS007",
+      "title": "Perbaiki drainase dan hindari genangan",
+      "description": "Pastikan drainase lahan baik dan hindari genangan air berlebih yang meningkatkan kelembaban. Penyakit ini lebih parah pada lahan dengan drainase buruk.",
+      "type": "kultur_teknis"
+    },
+    {
+      "disease_code": "DIS007",
+      "title": "Pemupukan kalium yang cukup",
+      "description": "Pastikan tanaman mendapat pupuk kalium (KCl) yang cukup karena kekurangan K meningkatkan kerentanan terhadap hawar daun cokelat. Aplikasikan 50-75 kg KCl/ha.",
+      "type": "kultur_teknis"
+    },
+
+    {
+      "disease_code": "DIS008",
+      "title": "Kendalikan wereng cokelat",
+      "description": "Karena RRSV ditularkan wereng cokelat, kendalikan wereng dengan insektisida buprofezin atau imidakloprid saat populasi mencapai ambang batas (10 ekor/rumpun).",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS008",
+      "title": "Tanam varietas tahan wereng cokelat",
+      "description": "Gunakan varietas dengan gen ketahanan terhadap wereng cokelat (Bph gene) seperti IR64, Ciherang, Inpari 13, Inpari 18, atau Inpari 34.",
+      "type": "varietas_tahan"
+    },
+    {
+      "disease_code": "DIS008",
+      "title": "Cabut tanaman terinfeksi",
+      "description": "Tanaman yang menunjukkan gejala kerdil hampa (ragged stunt) harus segera dicabut dan dimusnahkan untuk mencegah wereng yang makan tanaman sakit menularkan virus ke tanaman sehat.",
+      "type": "pengendalian"
+    },
+
+    {
+      "disease_code": "DIS009",
+      "title": "Fungisida untuk bercak daun sempit",
+      "description": "Semprot fungisida berbahan aktif trifloksistrobin+tebukonazol (Nativo 75 WG dosis 0.5 g/L) atau mankozeb (Dithane M-45 2-3 g/L) saat gejala mulai tampak pada fase vegetatif akhir.",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS009",
+      "title": "Gunakan benih sehat bersertifikat",
+      "description": "Gunakan benih berlabel biru (benih bersertifikat) yang bebas dari kontaminasi jamur Cercospora. Benih yang terinfeksi adalah sumber inokulum utama.",
+      "type": "preventif"
+    },
+    {
+      "disease_code": "DIS009",
+      "title": "Pemupukan silika",
+      "description": "Aplikasikan pupuk silika (silikat kalsium atau abu sekam yang mengandung Si) untuk memperkuat dinding sel daun sehingga lebih tahan terhadap penetrasi jamur.",
+      "type": "kultur_teknis"
+    },
+
+    {
+      "disease_code": "DIS010",
+      "title": "Fungisida untuk busuk pelepah",
+      "description": "Semprot fungisida berbahan aktif isoprothiolane (Fuji-One 400 EC dosis 1.5 ml/L) atau trisiklazol saat gejala busuk pelepah pertama kali tampak. Aplikasikan ke pelepah daun bendera secara langsung.",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS010",
+      "title": "Hindari kepadatan populasi berlebihan",
+      "description": "Gunakan jarak tanam yang sesuai (tidak terlalu rapat) untuk menjaga sirkulasi udara yang baik. Kelembaban tinggi akibat populasi terlalu padat memicu busuk pelepah.",
+      "type": "kultur_teknis"
+    },
+    {
+      "disease_code": "DIS010",
+      "title": "Pengendalian hama penggerek batang",
+      "description": "Luka akibat penggerek batang memudahkan infeksi Sarocladium oryzae. Kendalikan penggerek batang dengan insektisida berbahan aktif klorantraniliprol (Prevathon 50 SC dosis 0.5-1 ml/L).",
+      "type": "pengendalian"
+    },
+
+    {
+      "disease_code": "DIS011",
+      "title": "Fungisida saat pembungaan",
+      "description": "Semprot fungisida berbahan aktif propikonazol (Tilt 250 EC dosis 0.5 ml/L) atau tebukonazol saat 50-75% malai sedang berbunga untuk mencegah infeksi spora pada bunga. Ini adalah waktu kritis pengendalian.",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS011",
+      "title": "Sanitasi lahan pasca panen",
+      "description": "Benamkan jerami sisa panen yang terinfeksi karena spora false smut dapat bertahan di tanah. Buang gabah yang terinfeksi jauh dari lahan.",
+      "type": "preventif"
+    },
+    {
+      "disease_code": "DIS011",
+      "title": "Hindari pemupukan N terlambat",
+      "description": "Hindari pemupukan nitrogen pada fase generatif (saat malai mulai keluar) karena dapat memperparah infeksi false smut. Selesaikan pemupukan N sebelum fase bunting.",
+      "type": "kultur_teknis"
+    },
+
+    {
+      "disease_code": "DIS012",
+      "title": "Fungisida berbahan aktif mankozeb atau tembaga",
+      "description": "Semprot fungisida berbahan aktif mankozeb (Dithane M-45 dosis 2-3 g/L) atau propikonazol (Tilt 250 EC dosis 0.5 ml/L). Aplikasikan 2-3 kali mulai fase vegetatif akhir dengan interval 10-14 hari.",
+      "type": "pestisida"
+    },
+    {
+      "disease_code": "DIS012",
+      "title": "Perbaiki kesuburan tanah",
+      "description": "Tambahkan pupuk silika, kalium, dan pastikan pH tanah optimal (6-7). Tanaman yang kekurangan silika dan K lebih rentan terhadap bercak cokelat.",
+      "type": "kultur_teknis"
+    },
+    {
+      "disease_code": "DIS012",
+      "title": "Perlakuan benih dengan fungisida",
+      "description": "Rendam benih dalam larutan iprodion atau mankozeb sebelum semai untuk membunuh spora jamur pada permukaan benih dan mencegah infeksi awal.",
+      "type": "preventif"
+    },
+    {
+      "disease_code": "DIS012",
+      "title": "Tanam varietas tahan bercak cokelat",
+      "description": "Gunakan varietas yang lebih tahan terhadap bercak cokelat seperti IR36, IR64, Ciherang, atau varietas lokal tahan yang direkomendasikan BPTP setempat.",
+      "type": "varietas_tahan"
+    }
+  ]
+}

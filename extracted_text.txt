@@ -1,0 +1,344 @@
+
+================================================================================
+FILE: 22494-74356-4-PB.pdf
+================================================================================
+
+
+--- Page 1 ---
+Jurnal Perlindungan Tanaman Indonesia, Vol. 21, No. 2, 2017: 63–71
+DOI: 10.22146/jpti.22494
+Review Article
+Penyakit Hawar Pelepah (Rhizoctonia solani) pada Padi
+dan Taktik Pengelolaannya
+Sheath Blight Disease (Rhizoctonia solani) on Rice
+and Management Techniques
+Bambang Nuryanto
+Balai Besar Penelitian Tanaman Padi
+Jln. Raya 9, Sukamandi, Subang, Kabupaten Subang, Jawa Barat 41256
+Penulis untuk korespondensi. E-mail: bnuryanto@gmail.com
+Diterima 27 Februari 2017; diterima untuk diterbitkan 17 April 2017
+ABSTRACT
+Rice sheath blight disease caused by Rhizoctonia solani Kuhn (AG-1), is one of diseases currently growing and
+widespread in rice-producing areas in Indonesia. Widely planting of short-type and many tillers rice varieties with
+high doses fertilized, especially urea, can increase the severity of sheath blight disease. Sheath blight disease is becoming
+increasingly important role in the rice production system, especially in intensive rice farming. Therefore, it is necessary
+to analyze epidemic components affecting sheath blight development to determine their management strategies. The
+sheath blight disease is observed to develop more severe in low areas (0−200 m above sea levels) than in the moderateand
+high areas, severity of disease is seen to increase in short-type many tillers rice varieties. Initial inoculum are sclerotiaand
+the mycelia in plant debris that have an important role in the rice sheath blight development. However, sclerotia may
+fail to germinate due colonized by various kinds of antagonistic bacteria in the soil. Bacteria that are antagonistic to
+R. solanican be isolated from paddy soil containing compost. Mature compost can suppress germination of sclerotia
+of R. solaniby 14%, while in the mature compost enriched with antagonistic bacteria can suppress the germination of
+sclerotia by 28%. Relative humidity and temperature around the plant affect the development of rice sheath blight disease.
+Relative humidity decreased 2.8% when watering is only done by flooding the trench around, and decreased by 4.4%
+when flooding of land only 1 time per week. Sheath blight control by implementing some components in an integrated
+epidemic have higher chances of success in suppressing the disease development.
+Keywords: epidemic component, management strategies, rice sheath blight
+INTISARI
+Penyakit hawar pelepah padi yang disebabkan oleh jamur Rhizoctonia solaniKuhn (AG-1), merupakan salah satu
+penyakit yang saat ini berkembang dan tersebar luas di daerah-daerah penghasil padi di Indonesia. Penanaman secara
+luas padi varietas unggul tipe pendek beranakan banyak dan dipupuk dengan dosis tinggi terutama urea, dapat
+meningkatkan keparahan penyakit hawar pelepah. Penyakit hawar pelepah menjadi semakin penting peranannya di
+dalam sistem produksi padi sawah, terutama di daerah pertanian padi yang intensif. Oleh karena itu, perlu analisis
+komponen epidemi yang memengaruhi perkembangan hawar pelepah untuk menentukan strategi pengelolaannya.
+Pengamatan menunjukkan bahwa hawar pelepah berkembang lebih parah di daerah rendah (0−200 m dpl) daripada di
+daerah sedang dan tinggi, keparahan penyakit terlihat semakin meningkat pada varietas padi tipe pendek beranakan
+banyak. Inokulum awal berupa sklerosia dan miselium dalam serasah tanaman mempunyai peranan penting dalam
+perkembangan penyakit di pertanaman. Akan tetapi, sklerosia dapat gagal berkecambah karena dikoloni oleh berbagai
+spesies bakteri antagonis dalam tanah. Bakteri yang bersifat antagonis terhadap R. solani dapat diisolasi dari tanah
+sawah yang mengandung kompos. Kompos matang dapat menekan perkecambahan sklerosia sebesar 14%, sedangkan
+pada kompos matang yang diperkaya dengan bakteri antagonis dapat menekan perkecambahan sklerosia sebesar 28%.
+Kelembapan relatif dan suhu di sekitar tanaman padi memengaruhi perkembangan penyakit hawar pelepah. Kelembapan
+relatif menurun 2,8% ketika pengairan hanya dilakukan dengan cara penggenangan pada parit keliling, dan turun sebesar
+4,4% ketika dilakukan penggenangan lahan 1 kali seminggu. Teknologi pengendalian hawar pelepah dengan menerapkan
+beberapa komponen epidemik secara terpadu mempunyai peluang keberhasilan tinggi dalam menekan perkembangan
+penyakit.
+Kata kunci: hawar pelepah padi, komponen epidemik, strategi pengelolaan
+--- Page 2 ---
+64 Jurnal Perlindungan Tanaman Indonesia Vol. 21 No. 2
+PENGANTAR yang lebih hangat dan lembab (Eizenga et al., 2002).
+Oleh karena itu, penyakit hawar pelepah perlu
+Sistem produksi padi sawah bergantung kepada
+diperhatikan dalam praktek budidaya padi di daerah
+kuantitas asupan teknologi yang diterapkan dalam bertani
+tropik karena dapat menurunkan hasil secara nyata.
+seperti pemilihan varietas, pemupukan, penggunaan
+Gangguan penyakit hawar pelepah dapat menu-
+pestisida, penggunaan alat mesin pertanian, dan peng-
+runkan produksi padi, baik secara kualitatif maupun
+airan (Savary et al., 2000). Teknologi ini telah mampu
+kuantitatif (Guo et al., 2006). Menurut Semang
+
+... (truncated)
+
+
+================================================================================
+FILE: 12108-Article Text-28815-33456-10-20201112.pdf
+================================================================================
+
+
+--- Page 1 ---
+Available at: https://ejournal.unib.ac.id/index.php/JIPI p-ISSN 1411-0067
+DOI: https://doi.org/10.31186/jipi.22.2.119-128 e-ISSN 2684-9593
+KERAGAMAN DAN SUMBER GEN KETAHANAN
+VARIETAS PADI LOKAL TERHADAP PATOGEN Pyricularia grisea
+PENYEBAB PENYAKIT BLAS
+Santoso1*, Anggiani Nasution1, Nani Yunani1
+1Balai Besar Penelitian Tanaman Padi, Jl Raya 9 Sukamandi, Subang
+* Corresponding Author: santoso.kadrawi@gmail.com
+ABSTRACT
+[DIVERSITY AND THE SOURCE OF RESISTANCE GENE OF LOCAL RICE VARIETIES ON THE
+PATHOGENIC OF Pyricularia grisea CAUSE OF BLAST DISEASE]. Local rice varieties are known to have
+resistance or source of genes to pests even though their productivity yield is low. The pathogen of Pyricularia grisea
+is a cause of blast disease, which is one of the obstacles in rice production. The research aims to characterize the
+resistance of local rice varieties to the pathogen of P. grisea and to evaluate the virulence level of P. grisea
+pathogens against local rice varieties. A total of 100 local rice varieties and check varieties are susceptible and
+resistant namely Kencana Bali and Situ Patenggang tested their resistance to 4 dominant pathogenic of P. grisea i.e.
+races 033, 073, 133 and 173. Inoculation was carried out on stages 4-5 leaves or 18-21 days after seedling in a green
+house. The results showed a high genetic diversity of local rice varieties against pathogenic races 033, 073, 133 and
+173. Based on the response of local rice varieties resistance i.e. moderately resistant (MR), resistant (R) and
+susceptible (S) to pathogenic races 033, 073 , 133 and 173 obtained 45 resistance response patterns. Cere Bereum
+varieties which are local rice varieties from West Java and Situ Patenggang resistant check varieties have a resistant
+response to 4 P. grisea pathogenic races used. A number of local rice varieties also show a resistant and moderately
+resistant response to the four pathogenic races used include Siam 11, Pare Siriendah, Menyan, Cere Manggu and
+Enud-Rawa Bogo. Local rice varieties Djedah and Padi Hitam (2) are local rice varieties that have a specific response
+of resistant or moderately resistant to race 173. Race 133 and 173 have higher virulence rates than those of races 033
+and 073 on local rice varieties. The results of this study indicate that there is a great potential for the utilization of
+local rice varieties, as a source of resistance genes for blast disease for the assembly of rice varieties that are resistant
+to blast disease.
+—————————————————–—————————————————————————————
+Keyword: genetic diversity, local rice variety, blast disease, pathogen race, Pyricularia grisea
+ABSTRAK
+Varietas padi lokal diketahui mempunyai ketahanan atau sumber gen terhadap hama penyakit meskipun hasil
+produksinya rendah. Patogen Pyricularia grisea adalah penyebab penyakit blas, merupakan salah satu kendala dalam
+produksi tanaman padi. Penelitian bertujuan untuk 1. mengkarakterisasi ketahanan varietas-varietas padi lokal
+terhadap patogen P. grisea dan 2. mengevaluasi tingkat virulensi patogen P. grisea terhadap varietas padi lokal.
+Sebanyak 100 varietas padi lokal dan varietas pembanding rentan dan tahan yaitu Kencana Bali dan Situ Patenggang
+diuji ketahanannya terhadap 4 ras patogen P. grisea dominan yaitu ras 033, 073, 133 dan 173. Inokulasi dilakukan
+pada stadia 4-5 daun atau 18-21 hari setelah semai di rumah kaca. Hasil penelitian menunjukkan adanya keragaman
+genetik varietas padi lokal yang tinggi terhadap ras patogen 033, 073, 133 dan 173. Berdasarkan respon ketahanan
+varietas padi lokal yaitu agak tahan (AT), tahan (T) dan rentan (R) terhadap ras patogen 033, 073, 133 dan 173
+diperoleh 45 pola respon ketahanan. Varietas Cere Bereum yang merupakan varietas padi lokal dari Jawa Barat dan
+varietas pembanding tahan Situ Patenggang mempunyai respon tahan terhadap terhadap 4 ras patogen P. grisea yang
+digunakan. Sejumlah varietas padi lokal juga menunjukkan respon tahan dan agak tahan terhadap keempat ras
+patogen yang digunakan antara lain Siam 11, Pare Siriendah,, Menyan, Cere Manggu dan Enud-Rawa Bogo. Varietas
+padi lokal Djedah dan Beras Hitam (2) merupakan varietas padi lokal yang mempunyai respon spesifik tahan atau
+agak tahan terhadap ras 173. Ras 133 dan 173 mempunyai tingkat virulensi yang lebih tinggi dibandingkan ras 033
+dan 073 terhadap varietas padi lokal. Hasil penelitian ini menunjukkan adanya potensi yang besar pemanfaatan
+varietas padi lokal sebagai sumber gen ketahanan terhadap penyakit blas untuk perakitan varietas padi yang tahan
+penyakit blas.
+—————————————————–—————————————————————————————
+Kata kunci: keragaman genetik, varietas padi lokal, penyakit blas, Pyricularia grisea
+JIPI. 22(2), 119-128 (2020) 119
+--- Page 2 ---
+SANTOSO et al.
+PENDAHULUAN tahan blas (Sharma et al., 2014). Pengunaan varietas
+tahan selain bersifat ramah lingkungan, juga efisien
+Penyakit blas merupakan salah satu penyakit dalam biaya (Prabawa et al., 2015). Pemanfaatan varietas
+penting pada tanaman padi d
+
+... (truncated)
+
+
+================================================================================
+FILE: Epidemiologi, Patotipe, dan Strategi Pengendalian Penyakit Hawar Daun Bakteri pada Tanaman Padi.pdf
+================================================================================
+
+
+--- Page 1 ---
+SUDIR ET AL.: PENGENDALIAN PENYAKIT HAWAR DAUN BAKTERI PADA TANAMAN PADI
+Epidemiologi, Patotipe, dan Strategi Pengendalian Penyakit
+Hawar Daun Bakteri pada Tanaman Padi
+Sudir, B. Nuryanto, dan Triny S. Kadir
+Balai Besar Penelitian Tanaman Padi
+Jl. Raya IX Sukamandi Subang
+E-mail: sudir_bbpadi@yahoo.co.id
+Naskah diterima 1 Oktober 2012 dan disetujui diterbitkan 12 November 2012
+ABSTRACT
+Epidemiology, Pathotypes, and Strategy to Control Bacterial Leaf Blight on Rice Plant. Bacterial leaf
+blight (BLB) in rice is an important disease on rice in rice-producing countries, including in Indonesia. The
+disease is caused by the bacterium of Xanthomonas oryzae pv. oryzae (Xoo). Pathogen infected leaf of rice
+plants in all plant growth stages, from nursery to harvest. Symptom on the vegetative phase of plant is called
+kresek and that at the generative phase is called as blight. When the attack occurred in the generative
+phase, grain filling process was halted, resulting in less than perfect kernels. Yield losses due to the bacterial
+blight disease varied between 15 to 80%, depending on the crop stadia when the diseases occurred. BLB
+disease development is strongly influenced by environmental factors, especially moisture, temperature,
+method of cultivation, varieties and rate of nitrogen fertilization. It is therefore recommended that BLB
+control is integrated with other methods that would suppress the progress of the disease. Resistant varieties
+are considered as a key component in an integrated disease control of BLB. But this technology is hampered
+by the ability of the pathogen to adapt and to form new pathotipes which are more virulent, so that varietal
+resistance is easily broken. BLB disease control by planting resistant varieties must be adapted to the
+existing pathotipe. Monitoring and mapping the composition and distribution of bacterial Xoo pathotipe are
+indispensable as basic recommendation of BLB control. Planting resistant varieties according to the presence
+pathotipe occurrence could minimize the disease severity.
+Keywords: Bacterial leaf blight, rice, control.
+ABSTRAK
+Penyakit hawar daun bakteri (HDB) merupakan salah satu penyakit penting tanaman padi di negara-
+negara penghasil padi, termasuk di Indonesia. Penyakit ini disebabkan oleh bakteri Xanthomonas oryzae
+pv. oryzae (Xoo). Patogen ini menginfeksi daun padi pada semua fase pertumbuhan tanaman, mulai dari
+pesemaian sampai menjelang panen. Gejala yang timbul pada tanaman fase vegetatif disebut kresek dan
+pada fase generatif disebut hawar. Apabila infeksi terjadi pada fase generatif mengakibatkan proses
+pengisian gabah menjadi kurang sempurna. Kehilangan hasil karena penyakit HDB bervariasi antara 15–
+80%, bergantung pada stadia tanaman saat penyakit timbul. Perkembangan penyakit HDB dipengaruhi
+oleh lingkungan terutama kelembapan, suhu, cara budi daya, varietas, dan pemupukan nitrogen. Oleh
+karena itu, pengendalian yang dianjurkan adalah secara terpadu dengan berbagai cara yang dapat menekan
+perkembangan penyakit. Varietas tahan merupakan komponen utama dalam pengendalian penyakit HDB
+secara terpadu. Namun aplikasi teknologi ini terkendala oleh kemampuan patogen beradaptasi membentuk
+patotipe (strain) baru yang lebih virulen sehingga sifat ketahanan varietas mudah patah. Pengendalian
+penyakit HDB dengan penanaman varietas tahan harus disesuaikan dengan patotipe yang ada. Monitoring
+dan pemetaan komposisi dan penyebaran patotipe bakteri Xoo diperlukan sebagai dasar rekomendasi
+pengendalian penyakit HDB dengan varietas tahan sesuai dengan keberadaan patotipe di suatu tempat.
+Kata kunci: Hawar daun bakteri, padi, pengendalian.
+79
+--- Page 2 ---
+IPTEK TANAMAN PANGAN VOL. 7 NO. 2 2012
+PENDAHULUAN PENYEBAB DAN GEJALA PENYAKIT
+HAWAR DAUN BAKTERI
+Hawar daun bakteri (HDB) merupakan salah satu penyakit
+tanaman padi yang sangat penting di negara-negara Bakteri Xanthomonas oryzae pv. oryzae (Xoo) bersifat
+penghasil padi di dunia, termasuk di Indonesia (Ou 1985; gram negatif, berbentuk batang pendek dengan ukuran
+Hifni dan Kardin 1998; Suparyono et al. 2004). Di 0,45 - 0,75 x 0,65-2,1 μ, dengan satu flagella polar di
+Indonesia, keberadaan penyakit HDB dilaporkan sejak salah satu ujungnya dengan ukuran 0,03-8,75 μ. Koloni
+tahun 1950an pada tanaman padi muda di daerah Bogor bakteri berwarna kekuningan (Ou 1985, Degrasi et al.
+dengan gejala layu. Pada awalnya penyakit ini dinamai 2010). Patogen ini mempunyai tingkat virulensi yang
+kresek dan patogennya dinamai Xanthomonas kresek bervariasi berdasarkan kemampuannya menginfeksi
+(Mahmud 1991). Pengembangan varietas unggul berdaya varietas padi yang mempunyai gen dengan resistensi yang
+hasil tinggi tetapi rentan HDB seperti varietas IR64 berbeda dan interaksi antara gen virulen patogen dan gen
+menyebabkan penyakit ini berkembang dan menyebar tahan tanaman (Jha et al. 2007). Sifat virulensi patogen
+ke seluruh sentra produksi padi, terutama di Jawa. sangat mudah berubah, bergantung pada kondisi
+Penyakit in
+
+... (truncated)
+
+
+================================================================================
+FILE: Pengendalian Hama dan Penyakit Utama Tanaman Padi.pdf
+================================================================================
+
+
+--- Page 2 ---
+PENGENDALIAN HAMA DAN
+PENYAKIT UTAMA TANAMAN PADI
+Suprihanto, dkk
+PERTANIAN PRESS
+TAHUN 2024
+--- Page 4 ---
+PENGENDALIAN HAMA DAN PENYAKIT UTAMA TANAMAN PADI
+© copyright Balai Besar Pengujian Standar Instrumen Padi
+Revisi, Februari 2024
+Penyusun:
+Suprihanto
+Andi Amran Sulaiman
+Fadjry Djufry
+Muhammad Thamrin
+Priatna Sasmita
+N. Usyati
+Ratna Sari Dewi
+Agus Wahyana Anggara
+Baehaki Suherlan Effendi
+Santoso
+Nia Kurniawati
+Suhartini
+Rina Hapsari Wening
+Idrus Hasmi
+ISBN: 978-979-582-277-6
+Editor:
+Idrus Hasmi
+Sampul Tata Letak:
+Mutya Norvyani
+Penerbit:
+Pertanian Press
+Alamat Unit Kerja :
+Sekretariat Jenderal Kementerian Pertanian
+Jl. Harsono RM No. 3, Ragunan Jakarta Selatan 12550
+Email: pertanianpress@pertanian.go.id
+Alamat Redaksi :
+Pusat Perpustakaan dan Literasi Pertanian
+Jl. Ir. Juanda No.20, Bogor 16122
+Hak Cipta dilindungi Undang-undang
+Dilarang mengutip atau memperbanyak sebagian atau seluruh isi buku tanpa
+ijin penulis dan atau melalui penerbit
+i
+--- Page 5 ---
+PRAKATA
+Tanaman pangan merupakan sub sektor yang paling rentan di pengaruhi
+iklim. Adanya kenaikan suhu dan peningkatan curah hujan akan
+berpengaruh pada pola tanam sekaligus berpengaruh terhadap perilaku
+organisme pengganggu tanaman (OPT). Peningkatan serangan OPT
+akan menurunkan kuantitas dan kualitas hasil. Tanaman padi memiliki
+beragam potensi cekaman biotik berupa hama dan penyakit yang sangat
+mempengaruhi kehilangan hasil sehingga diperlukan pengendalian
+hama dan penyakit padi, diperlukan pemahaman yang baik tentang
+jenis dan karakteristik hama dan penyakit tersebut.
+Berdasarkan Permentan Nomor 13 Tahun 2023 tentang Organisasi dan
+Tata Kerja Unit Pelaksana Teknis Lingkup Badan Standardisasi
+Instrumen Pertanian, Balai Besar Penelitian Tanaman Padi (BB Padi)
+berganti nama menjadi Balai Besar Pengujian Standar Instrumen Padi
+(BBPSI Padi). Sesuai dengan tugasnya, BBPSI Padi melaksanakan
+pengujian standar instrumen padi. Untuk mendukung hal tersebut,
+diperlukan upaya-upaya dalam membuat standar instrumen padi salah
+satunya adalah pengendalian hama dan penyakit tanaman padi yang
+dapat diimplementasikan di lapangan dan sesuai dengan peraturan dan
+kebutuhan pertanian modern.
+Buku Pengendalian Hama dan Penyakit Tanaman Padi ini memberikan
+informasi dan tuntunan praktis yang sangat cukup mengenal jenis dan
+bioteknologi hama dan penyakit utama padi serta solusi pengendalian
+terbaik berdasarkan rekomendasi BBPSI Padi.
+Harapannya buku ini dapat bermanfaaat bagi pengguna khususnya
+petani. Masukan dan saran dari pengguna sangat kami harapkan untuk
+perbaikan berikutnya.
+Sukamandi, Februari 2024
+Kepala Balai Besar,
+Dr. Ir. Muhammad Thamrin, M.Si
+ii
+--- Page 6 ---
+DAFTAR ISI
+Halaman
+PRAKATA…………………………………………………………………. ii
+DAFTAR ISI ……………………………………………………………..... iii
+DAFTAR TABEL ………………………………………………………...... iv
+DAFTAR GAMBAR ………………………………………………………. v
+PENGENDALIAN HAMA TIKUS TERPADU (PHTT) ……………......... 1
+SISTEM BUBU PERANGKAP TIKUS TBS DAN LTBS ……………....... 9
+PENGENDALIAN WERENG BATANG COKLAT …………………........ 15
+PENGENDALIAN PENGGEREK BATANG PADI ……………………… 20
+PENGENDALIAN HAWAR DAUN BAKTERI (HDB) …......................... 26
+PENGENDALIAN PENYAKIT BLAS …………………………………… 36
+PENGENDALIAN TUNGRO ……………………………………….......... 43
+PENGENDALIAN VIRUS KERDIL HAMPA & KERDIL RUMPUT ....... 48
+iii
+--- Page 7 ---
+DAFTAR TABEL
+Halaman
+Tabel 1 Rekomendasi tindakan pengendalian ........................................... 4
+Tabel 2 Biologi penggrek batang padi ....................................................... 21
+Tabel 3 Varietas padi dengan tingkat ketahanannya terhadap
+32
+penyakit hawar daun bakteri .........................................................
+iv
+--- Page 8 ---
+DAFTAR GAMBAR
+Halaman
+Gambar 1 Ciri khas petak sawah diserang tikus (A), kerusakan padi
+1
+stadia vegetatif (B) & generatif (C).........................................
+Gambar 2 Kegiatan sanitasi habitat tikus ……………………………… 4
+Gambar 3 Kegiatan gropyokan massal ……………………………….... 5
+Gambar 4 Kegiatan pengemposan lubang tikus ……………………….. 5
+Gambar 5 LTBS di lahan sawah .............................................................. 6
+Gambar 6 Pengumpanan dengan rodentisida .......................................... 6
+Gambar 7 Pemanfaatan pesemaian sebagai TBS .................................... 7
+Gambar 8 Tanam serempak ..................................................................... 7
+Gambar 9 Trap Barrier System (TBS) ..................................................... 8
+Gambar 10 TBS dengan tanaman perangkap yang ditanam 3 minggu
+lebih dahulu dari pertanaman padi di sekitarnya (A) Stadia 9
+Vegetatif, (B) Stadia Generatif ...............................................
+Gambar 11 TBS dengan pagar plastik PE bening dan terpal. Bagian
+10
+bawah pagar plastik selalu terendam air .................................
+Gambar 12 Bubu perangkap tikus & pemasangannya .............................. 10
+Gambar 13 Skema TBS ............................................................................. 11
+Gambar 14 Pe
+
+... (truncated)
+
