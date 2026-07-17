@@ -1,6 +1,6 @@
 // src/app/api/admin/import-kb/route.ts
 import { NextResponse } from "next/server";
-import { prisma } from "@/lib/prisma";
+import prisma from "@/lib/prisma";
 import * as xlsx from "xlsx";
 
 export async function POST(req: Request) {
