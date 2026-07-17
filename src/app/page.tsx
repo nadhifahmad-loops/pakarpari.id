@@ -82,11 +82,15 @@ export default function HomePage() {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const scrollToSection = (sectionId) => {
+  const scrollToSection = (sectionId: string) => {
     setIsMenuOpen(false);
+
     const element = document.getElementById(sectionId);
+
     if (element) {
-      element.scrollIntoView({ behavior: 'smooth' });
+      element.scrollIntoView({
+        behavior: "smooth",
+      });
     }
   };
 
